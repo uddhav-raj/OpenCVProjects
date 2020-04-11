@@ -1,0 +1,2 @@
+This is a repository where I have implemented some of the OpenCV projects which, though were small, but interesting. 
+This was also a practice to cover all the basic concepts in OpenCV before moving on to Deep Learning and other advance stuffs.
